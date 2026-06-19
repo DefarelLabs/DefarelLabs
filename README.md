@@ -60,8 +60,8 @@ My journey started hands-on: assembling production units at Zyrex, earning a pro
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SBIRies&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBIRies&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -89,14 +89,14 @@ My journey started hands-on: assembling production units at Zyrex, earning a pro
 ## 📬 Get in Touch
 
 <p>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:defarel06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/defarelpermana"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=SBIRies&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
 
 <p align="center"><i>"Infrastructure yang solid adalah pondasi dari semua hal digital."</i></p>

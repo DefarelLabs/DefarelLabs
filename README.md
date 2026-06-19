@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A6E8,50:203a43,100:00A6E8&height=200&section=header&text=Hey,%20I'm%20Farrell%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=IT%20Infrastructure%20Enthusiast%20•%20Lifelong%20Learner&descAlignY=58&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A6E8,50:203a43,100:00A6E8&height=200&section=header&text=Hey,%20I'm%20Defarel%20Permana%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=IT%20Infrastructure%20Enthusiast%20•%20Lifelong%20Learner&descAlignY=58&descSize=16"/>
 
   <img src="https://komarev.com/ghpvc/?username=SBIRies&color=2c5364&style=flat-square&label=Profile+Views" alt="Profile views"/>
   &nbsp;
@@ -16,11 +16,11 @@
 
 ```yaml
 Name      : Defarel Permana
-location   : Indonesia 🇮🇩
-education  : S1 Sistem Informasi — Universitas Terbuka (ongoing)
-current_role: Admin — Cash Reports & Stock Management
-prev_exp   : Production Assembly Staff @ Zyrex
-goal       : IT Infrastructure Engineer
+Location   : Indonesia 🇮🇩
+Education  : S1 Sistem Informasi — Universitas Terbuka (ongoing)
+Current Role: Administrasi Sistem Operasi
+Prev Exp   : Production Assembly Staff @ Zyrex
+Goal       : IT Infrastructure Engineer
 ```
 
 > Saya memulai karir dari jalur teknis — merakit unit produksi di Zyrex, lalu beralih ke dunia administrasi sambil terus mendalami IT. Sekarang saya kuliah sambil kerja, dan di luar jam kerja saya sibuk mengkonfigurasi jaringan, eksplorasi hardware, dan belajar web development.
@@ -66,11 +66,23 @@ goal       : IT Infrastructure Engineer
   </a>
 </p>
 <br>
-
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <a href="https://img.shields.io">
+    <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://img.shields.io">
+    <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://img.shields.io">
+    <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://img.shields.io">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
@@ -80,8 +92,8 @@ goal       : IT Infrastructure Engineer
 
 | 🎓 Sertifikasi | 🏛️ Lembaga | 📌 Status |
 |---|---|---|
-| Sertifikasi Kompetensi Profesi | LSP / SKK / BNSP | ✅ Certified |
-| Sertifikasi Kompetensi Internasional | MikroTik MTCNA | ✅ Certified |
+| Sertifikasi Kompetensi Profesi | LSP / SKK / BNSP | ✅ [Certified](https://s.id/SertifikatBNSPDefarel) |
+| Sertifikasi Kompetensi Internasional | MikroTik MTCNA | ✅ [Certified](https://s.id/SertifikatMTCNADefarel) |
 | SMK Trimulia — Teknik Komputer & Jaringan | Kemendikbud | ✅ Graduate |
 | S1 Sistem Informasi | Universitas Terbuka | 🔄 In Progress |
 
@@ -98,8 +110,6 @@ goal       : IT Infrastructure Engineer
 🔲  Membangun home lab jaringan pribadi
 🔲  Menyelesaikan S1 Sistem Informasi @ Universitas Terbuka
 🔲  Membangun portofolio front-end web development
-✅  Sertifikasi profesional BNSP
-✅  Pengalaman kerja di bidang teknis (Zyrex)
 ```
 
 ---
@@ -157,11 +167,19 @@ goal       : IT Infrastructure Engineer
   <a href="https://github.com/SBIRies">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  &nbsp;
+  <a href="https://www.instagram.com/defarel_permana">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+ 
+</p>
+   
+
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&fontSize=16&fontColor=ffffff&text=Infrastructure%20yang%20solid%20adalah%20pondasi%20dari%20semua%20hal%20digital.&fontAlignY=65&descSize=12"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A6E8,50:203a43,100:00A6E8&height=120&section=footer&fontSize=16&fontColor=ffffff&text=Infrastructure%20yang%20solid%20adalah%20pondasi%20dari%20semua%20hal%20digital.&fontAlignY=65&descSize=12"/>
 </div>

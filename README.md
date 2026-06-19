@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A6E8,50:203a43,100:00A6E8&height=200&section=header&text=Hey,%20I'm%20Defarel%20Permana%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=IT%20Infrastructure%20Enthusiast%20•%20Lifelong%20Learner&descAlignY=58&descSize=16"/>
 
-  <img src="https://komarev.com/ghpvc/?username=SBIRies&color=2c5364&style=flat-square&label=Profile+Views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=DefarelLabs&color=2c5364&style=flat-square&label=Profile+Views" alt="Profile views"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to-Collaborate-2c5364?style=flat-square"/>
   &nbsp;
@@ -117,21 +117,21 @@ Goal       : IT Infrastructure Engineer
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=SBIRies&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBIRies&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DefarelLabs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DefarelLabs&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
 
 </div>
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SBIRies&theme=tokyonight&hide_border=true" width="70%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DefarelLabs&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
 
 ### 📅 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SBIRIes&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DefarelLabs&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
 ---
@@ -163,7 +163,7 @@ Goal       : IT Infrastructure Engineer
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/SBIRies">
+  <a href="https://github.com/DefarelLabs">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;

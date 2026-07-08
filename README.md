@@ -94,7 +94,7 @@ Goal          : IT Infrastructure Engineer
 | 🎓 Sertifikasi | 🏛️ Lembaga | 📌 Status |
 |---|---|---|
 | Sertifikasi Kompetensi Profesi | LSP / SKK / BNSP | ✅ [Certified](https://drive.google.com/file/d/1WON84g8U0d0mKET7bO70jFU5PJKBGlT9/view?usp=drive_link) |
-| Sertifikasi Kompetensi Internasional | MikroTik MTCNA | ✅ [Certified](https://drive.google.com/file/d/1HbpY0GUETW6Yzn5QHLiinSBluH5Bs9SU/view?usp=drive_link) |
+| Sertifikasi Kompetensi Internasional | MikroTik MTCNA | ✅ [Certified](https://mikrotik.com/training/certificates/c444846c101deedba884) |
 | SMK Trimulia — Teknik Komputer & Jaringan | Kemendikbud | ✅ Graduate |
 | S1 Sistem Informasi | Universitas Terbuka | 🔄 In Progress |
 

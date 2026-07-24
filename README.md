@@ -18,7 +18,7 @@
 Name          : Defarel Permana
 Location      : Indonesia 🇮🇩
 Education     : S1 Sistem Informasi — Universitas Terbuka (ongoing)
-Current Role  : Administrasi Sistem Operasi
+Current Role  : Administration
 Prev Exp      : Production Assembly Staff @ Zyrex
 Goal          : IT Infrastructure Engineer
 ```
